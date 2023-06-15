@@ -27,4 +27,4 @@ Contributions to this course are welcome! If you have suggestions for improvemen
 
 ### Also check
 
-[LlamaIndex Course](https://github.com/SamurAIGPT/langchain-course)
+[Langchain Course](https://github.com/SamurAIGPT/langchain-course)
