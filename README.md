@@ -24,3 +24,7 @@ This course assumes you have a basic understanding of Python as LlamaIndex is wr
 ### Contributions
 
 Contributions to this course are welcome! If you have suggestions for improvements, please open an issue or create a pull request.
+
+### Also check
+
+[LlamaIndex Course](https://github.com/SamurAIGPT/langchain-course)
